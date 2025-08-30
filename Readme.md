@@ -31,8 +31,8 @@ Instale estas bibliotecas pela **IDE do Arduino**:
 ## ⚙️ Configuração
 No início do código, edite as seguintes variáveis:
 ```cpp
-const char* ssid     = "SUA_REDE_WIFI";
-const char* password = "SUA_SENHA";
+const char* ssid     = "Rede";
+const char* password = "Senha";
 
 const char* ipList[] = {
   "http://192.168.0.200",
