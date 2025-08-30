@@ -1,6 +1,6 @@
 
 
-````markdown
+
 # 🌡️ Relógio Higrometro NodeMCU + DHT11 + Display OLED
 
 Este projeto implementa uma estação de monitoramento de **temperatura e umidade** interna e externa, exibindo os dados em um **display OLED I2C**.  
@@ -90,6 +90,5 @@ Sinta-se à vontade para abrir **Issues** e enviar **Pull Requests** com melhori
 
 Este projeto é distribuído sob a licença MIT - veja [LICENSE](LICENSE) para detalhes.
 
-```
 
 
