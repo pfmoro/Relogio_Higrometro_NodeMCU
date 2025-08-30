@@ -92,7 +92,4 @@ Este projeto é distribuído sob a licença MIT - veja [LICENSE](LICENSE) para d
 
 ```
 
----
 
-Quer que eu já crie também um **`LICENSE` padrão (MIT)** para esse repositório, para deixar ele pronto para ser aberto/publicado no GitHub?
-```
