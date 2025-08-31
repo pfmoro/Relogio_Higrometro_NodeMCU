@@ -150,7 +150,8 @@ void loop() {
 
   timeClient.update();
   horaAtual = timeClient.getFormattedTime();
-
+  horaAtual = horaAtual.substring(0, 5);  // mantém apenas HH:MM
+  
   // --- Lê sensor interno com testes separados ---
   float t = dht.readTemperature();
   if (!isnan(t)) {
